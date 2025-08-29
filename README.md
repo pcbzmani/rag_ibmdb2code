@@ -1,9 +1,12 @@
 Result Image:
+
 Bot output
+
 <img width="811" height="316" alt="image" src="https://github.com/user-attachments/assets/0dd9caaa-03f9-47e3-941c-dcfe75c09f49" />
 
-Document
-<img width="278" height="342" alt="image" src="https://github.com/user-attachments/assets/6ffbc760-194e-4a5b-b09d-291cea725e90" />
+From Document
+
+
 
 
 Bot output:
